@@ -100,7 +100,8 @@ Etkileşimli API belgesinden uç grupları. Her uç, belgede açıklaması ve ö
 
 WolvoxApi, Dijitalkobi tarafından verilen lisansla çalışır. Lisans, kurulu bilgisayara, işletmenin vergi numarasına ve
 AKINSOFT lisans numarasına bağlıdır. Süreli (yıllık) ve süresiz lisans seçenekleri vardır; yeni kurulum yedi gün deneme
-olarak kullanılabilir.
+olarak kullanılabilir. Son kullanıcı lisans sözleşmesi ilk kurulumda yönetim aracında okunup onaylanır; onaylanan metin ve onay
+kaydı Lisans ekranından görülebilir.
 
 ## Çalışma ortamı
 
