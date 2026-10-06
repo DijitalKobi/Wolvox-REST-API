@@ -77,12 +77,6 @@ tanımları; depo bazında envanter, depolar arası transfer ve sayım.
 
 **Şirket** — Kurulumdaki şirketler, çalışma yılları, şubeler ve şirket kartı bilgileri.
 
-## Ek ürün: T-Soft entegrasyonu
-
-T-Soft e-ticaret mağazası ile Wolvox ERP arasında sipariş, müşteri, adres, ödeme ve ürün bilgisini otomatik aktaran
-entegrasyon servisi. Mağaza siparişleri müşteri ve tahsilat bilgileriyle birlikte ERP'ye yazılır; ERP'deki ürün, fiyat ve stok
-bilgileri mağazaya gönderilir. WolvoxApi lisansına ek ürün olarak eklenir.
-
 ## Lisanslama
 
 WolvoxApi, Dijitalkobi tarafından verilen lisansla çalışır. Lisans, kurulu bilgisayara, işletmenin vergi numarasına ve
@@ -107,4 +101,4 @@ E-posta: kenan@dijitalkobi.com.tr
 ## Yasal bilgi
 
 WolvoxApi, Dijitalkobi tarafından bağımsız olarak geliştirilmiştir ve AKINSOFT ile bir ortaklık ya da onay ilişkisi içermez.
-AKINSOFT, Wolvox ve T-Soft, sahiplerinin ticari markalarıdır. Yazılımın tüm hakları Dijitalkobi'ye aittir.
+AKINSOFT ve Wolvox, sahiplerinin ticari markalarıdır. Yazılımın tüm hakları Dijitalkobi'ye aittir.
