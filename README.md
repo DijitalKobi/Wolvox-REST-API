@@ -77,6 +77,25 @@ tanımları; depo bazında envanter, depolar arası transfer ve sayım.
 
 **Şirket** — Kurulumdaki şirketler, çalışma yılları, şubeler ve şirket kartı bilgileri.
 
+## Ekran görüntüleri
+
+Etkileşimli API belgesinden uç grupları. Her uç, belgede açıklaması ve örnek isteğiyle birlikte yer alır.
+
+### Cari hesap uçları
+![Cari hesap uçları](gorseller/cari-uclari.png)
+
+### Stok ve depo uçları
+![Stok ve depo uçları](gorseller/stok-ve-depo-uclari.png)
+
+### Fatura, irsaliye, sipariş ve teklif uçları
+![Fatura, irsaliye, sipariş ve teklif uçları](gorseller/fatura-irsaliye-siparis-teklif-uclari.png)
+
+### Kasa, banka, çek/senet ve tanım uçları
+![Kasa, banka, çek/senet ve tanım uçları](gorseller/kasa-banka-cek-senet-tanim-uclari.png)
+
+### Rapor, şirket ve oturum uçları
+![Rapor, şirket ve oturum uçları](gorseller/rapor-sirket-oturum-uclari.png)
+
 ## Lisanslama
 
 WolvoxApi, Dijitalkobi tarafından verilen lisansla çalışır. Lisans, kurulu bilgisayara, işletmenin vergi numarasına ve
